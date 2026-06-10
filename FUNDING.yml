@@ -1,0 +1,5 @@
+# GitHub "Sponsor" button configuration.
+# Put this file at:  .github/FUNDING.yml  in your repository.
+# GitHub will then show a Sponsor button on the repo page that links to Ko-fi.
+
+ko_fi: beyondak
